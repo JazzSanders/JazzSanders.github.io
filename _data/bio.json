@@ -17,7 +17,9 @@
     { "name": "User Experience Design" },
     { "name": "User Interface Design" },
     { "name": "Business" },
-    { "name": "Conflict Managment" }
+    { "name": "Conflict Managment" },
+    { "name": "Aviation" },
+    { "name": "Aerospace Management" }
   ],
   "skills": [
     {
@@ -37,7 +39,7 @@
       "startDate": "2025-06-30",
       "endDate": "Present",
       "courses": [
-        A technical deep-dive into the architecture of the modern web. This program focused on full-stack fundamentals, responsive design, and the coding languages necessary to build functional, user-centric digital experiences.
+        "A technical deep-dive into the architecture of the modern web. This program focused on full-stack fundamentals, responsive design, and the coding languages necessary to build functional, user-centric digital experiences."
       ]
     },
     {
@@ -47,7 +49,7 @@
       "startDate": "2024-09-23",
       "endDate": "2025-06-15",
       "courses": [
-        An intensive study of the mechanics of dispute resolution. Developed professional-grade skills in mediation, negotiation, and restorative justice practices designed to foster collaborative environments in professional settings.
+        "An intensive study of the mechanics of dispute resolution. Developed professional-grade skills in mediation, negotiation, and restorative justice practices designed to foster collaborative environments in professional settings."
       ]
     },
     {
@@ -57,7 +59,7 @@
       "startDate": "2023-06-26",
       "endDate": "2024-09-08",
       "courses": [
-        Advanced business training focused on the intersection of executive leadership and human-centric solutions. This program paired core business strategy and organizational behavior with the specialized ability to navigate and resolve high-stakes corporate disputes.
+        "Advanced business training focused on the intersection of executive leadership and human-centric solutions. This program paired core business strategy and organizational behavior with the specialized ability to navigate and resolve high-stakes corporate disputes."
       ]
     },
     {
@@ -67,7 +69,7 @@
       "startDate": "2019-08-19",
       "endDate": "2022-12-03",
       "courses": [
-        Comprehensive training in the operational and logistical side of the aviation industry. Curriculum highlights included airport management, aviation safety standards, and the strategic oversight of complex aerospace systems.
+        "Comprehensive training in the operational and logistical side of the aviation industry. Curriculum highlights included airport management, aviation safety standards, and the strategic oversight of complex aerospace systems."
       ]
     },
      {
@@ -77,7 +79,7 @@
       "startDate": "2019-08-19",
       "endDate": "2022-12-03",
       "courses": [
-        A degree focused on linguistic mastery and the rich cultural tapestry of the Spanish-speaking world. Beyond language proficiency, the program emphasized historical and social cultural studies, further enriched by a semester of full immersion via a study abroad program in Granada, Spain.
+        "A degree focused on linguistic mastery and the rich cultural tapestry of the Spanish-speaking world. Beyond language proficiency, the program emphasized historical and social cultural studies, further enriched by a semester of full immersion via a study abroad program in Granada, Spain."
       ]
     }
   ],
