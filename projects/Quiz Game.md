@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Quiz Game images/Quiz Game Winner.png
 title: "Quiz Game Web Application"
 date: 2026
 published: true
@@ -14,9 +14,13 @@ summary: "I developed a real-time, synchronized web-based trivia application tha
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Start Screen.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Create Quiz.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Pin.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Join Session.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Player Answer.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Host Screen After Question.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Quiz Game images/Quiz Game Winner.png" class="img-thumbnail" >
 </div>
 
 The Quiz Game Web Application is an interactive, real-time platform designed to facilitate trivia sessions for educational and casual/social purposes. Unlike traditional static quizzes, this application leverages modern web technologies to provide a synchronized experience where multiple participants can compete simultaneously. The system is built on a client-server architecture utilizing Firebase as a backend-as-a-service (BaaS) to handle real-time data synchronization. When a host creates a session, the system generates a unique 4-digit join code and establishes a listener that pushes questions to all connected player devices simultaneously.
