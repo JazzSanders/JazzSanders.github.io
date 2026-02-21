@@ -6,7 +6,7 @@ title: "Quiz Game Web Application"
 date: 2026
 published: true
 labels:
-  - Web Developmetn
+  - Web Development
   - Firebase
   - JavaScript
   - UI/UX Design
@@ -34,5 +34,5 @@ function calculateScore(timeRemaining) {
     return score;
 }
 
-You can learn more in the [Quiz Game Web Application Report]().
+You can learn more in the [Quiz Game Web Application Report](https://github.com/JazzSanders/JazzSanders.github.io/blob/main/projects/Jasmine%20Sanders_Report1.docx).
 You can play the Quiz Game [here](https://jazzsanders.github.io/CSC272---Winter2026/index.html).
